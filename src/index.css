@@ -1,0 +1,38 @@
+.container{
+    margin-left: 3em;
+}
+
+.header{
+display: flex;
+background-color: goldenrod;
+width: cover;
+
+}
+
+.logo{
+    display: flex;
+
+}
+
+.logo img{
+    width: 4em;
+}
+
+.menu{
+    margin-top: 1.4em;
+}
+
+
+
+.menu a{
+color: #000;
+text-decoration: none;
+margin-left: 3em;
+color: #000;
+display: inline;
+
+}
+
+.menu a:hover{
+    text-decoration: underline;
+}
