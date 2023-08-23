@@ -1,13 +1,16 @@
-import React from 'react'
-import logo from './El-Tech Logo-1.png'
+import React, { useState } from 'react'
+import logo from './IMG-20230819-WA0022.jpg'
 
 const Header = () => {
+  const [nav, setNav] =useState([
+    
+  ])
   return (
     <div>
       <div className=' header'>
       <div className='logo container '>
-      <img src={logo}alt="logo" />
-      <h3>Name</h3>
+      <img src={logo} alt="logo"  />
+      <h3>Bamidele <br /> Raphael</h3>
 
      
         </div>
@@ -16,7 +19,7 @@ const Header = () => {
   <a href="">About</a>
   <a href="">Project</a>
   <a href="">Service</a>
-  <a href="">Contact</a>
+ 
 </div>
       </div>
        
