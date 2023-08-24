@@ -10,17 +10,12 @@ const Header = () => {
       <div className=' header'>
       <div className='logo container '>
       <img src={logo} alt="logo"  />
-      <h3>Bamidele <br /> Raphael</h3>
+      <h3>Bamidele Raphael</h3>
 
      
-        </div>
-      <div className="menu">
-  <a href="">Home</a>
-  <a href="">About</a>
-  <a href="">Project</a>
-  <a href="">Service</a>
- 
-</div>
+       </div>
+       
+     
       </div>
        
 

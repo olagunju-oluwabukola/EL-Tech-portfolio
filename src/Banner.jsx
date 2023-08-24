@@ -1,7 +1,7 @@
 import React from 'react'
-import bannerImage from './IMG-20230819-WA0023.jpg'
-import bannerImage2 from './IMG-20230819-WA0023.jpg'
-import bannerImage3 from './IMG-20230819-WA0023.jpg'
+import bannerImage from './IMG-20230823-WA0039.jpg'
+import bannerImage2 from './IMG-20230823-WA0017.jpg'
+import bannerImage3 from './IMG-20230823-WA0018.jpg'
 const banner = () => {
   return (
     <div>
@@ -9,9 +9,9 @@ const banner = () => {
 
 <div class="overlay">
     <div className='text container'>
-    <p>I provide</p>
- <h3>Construction Services</h3> 
- <p> <a href=""><button>Explore</button></a> </p>
+    <p>I Deal with the</p>
+ <h3>engineering of residential, commercial, distribution and telecommunications systems<span>.</span></h3> 
+
     </div>
   
 </div>

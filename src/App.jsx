@@ -4,7 +4,7 @@ import Header from './Header'
 import Banner from './Banner'
 import Services from './Services'
 import Project from './Project'
-import Footer from './Footer'
+
 
 function App() {
   
@@ -16,7 +16,7 @@ function App() {
       <Banner/>
       <Services/>
       <Project/>
-      <Footer/>
+ 
       </div>
      
     </>
