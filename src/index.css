@@ -59,7 +59,7 @@ border-bottom: 2px solid;
 
 .box{
 
-    height: 40vh; 
+    height: 35vh; 
     position: relative;
     background:url('IMG-20230819-WA0023.jpg');
     background-size: cover;
@@ -70,14 +70,14 @@ border-bottom: 2px solid;
 .overlay{
     position: relative;
     
-    height: 40vh;
+    height: 35vh;
     background: transparent;
     font-size: 26px;
     color: white;
     display: flex;
     overflow: hidden;
     flex-direction: column;
-    background:rgba(0,0, 0, 0.9);
+    background:rgba(0,0, 0, 0.7);
    }
  
     .overlay .text{
